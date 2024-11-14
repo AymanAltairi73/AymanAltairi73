@@ -1,5 +1,5 @@
 # 💫 About Me:
-▎About Me<br><br>I’m a Full-Stack Developer with expertise in web and mobile applications, focusing on user interface design. I also have experience in project management and team leadership.<br><br>▎Current Endeavors<br><br>- Freelancing: Working from home on diverse projects.<br>- Collaboration: Seeking connections with fellow developers and creatives.<br>- Mentorship: Supporting others in their learning journeys.<br>- Learning: Currently expanding my skills in Flutter.<br><br>▎Let’s Connect!<br><br>Feel free to reach out for discussions or collaborations!<br>
+▎About Me<br><br>I’m a Full-Stack Developer with expertise in mobile applications, focusing on user interface design. I also have experience in project management and team leadership.<br><br>▎Current Endeavors<br><br>- Freelancing: Working from home on diverse projects.<br>- Collaboration: Seeking connections with fellow developers and creatives.<br>- Mentorship: Supporting others in their learning journeys.<br>- Learning: Currently expanding my skills in Flutter.<br><br>▎Let’s Connect!<br><br>Feel free to reach out for discussions or collaborations!<br>
 
 
 ## 🌐 Socials:
