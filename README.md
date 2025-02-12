@@ -4,7 +4,7 @@
 
 <img src="api.gif" alt="API"> 
 # 💫 About Me:
-▎About Me<br><br>I'm Frontend mobile developer specializing in mobile application development using Flutter framework and UI/UX mobile design, also full-stack web Applications using larvel (wordPress).
+<br>I'm Frontend mobile developer specializing in mobile application development using Flutter framework and UI/UX mobile design, also full-stack web Applications using larvel (wordPress).
 
 
 ## 🌐 Socials:
