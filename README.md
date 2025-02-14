@@ -26,7 +26,6 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,15 +37,37 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Databases:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Databases & Backend Services:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Flutter Libraries & Tools:
+![Provider](https://img.shields.io/badge/provider-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/riverpod-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/bloc-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/getx-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Hive](https://img.shields.io/badge/hive-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter Web](https://img.shields.io/badge/flutter_web-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter Desktop](https://img.shields.io/badge/flutter_desktop-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Firebase Tools:
+![Firebase Auth](https://img.shields.io/badge/firebase_auth-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Firestore](https://img.shields.io/badge/firestore-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Cloud Functions](https://img.shields.io/badge/cloud_functions-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Firebase Storage](https://img.shields.io/badge/firebase_storage-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### Supabase Tools:
+![Supabase Auth](https://img.shields.io/badge/supabase_auth-%233ECF8E.svg?style=for-the-badge&logo=supabase)
+![Supabase Storage](https://img.shields.io/badge/supabase_storage-%233ECF8E.svg?style=for-the-badge&logo=supabase)
+![Supabase Realtime](https://img.shields.io/badge/supabase_realtime-%233ECF8E.svg?style=for-the-badge&logo=supabase)
 
 ### Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android_studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
