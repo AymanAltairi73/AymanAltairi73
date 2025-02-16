@@ -4,6 +4,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer in a room full of devices and code" width="400">
+</div>
+
 <h1 align="center">Hi 👋, I'm Ayman Altairi</h1>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
