@@ -9,8 +9,9 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ayman Altairi</h1>
-# 💫 About Me:
-<br>I'm a **Frontend Mobile Developer** specializing in mobile application development using the **Flutter framework** and **UI/UX mobile design**. I also develop full-stack web applications using **Laravel** and **WordPress**.
+
+💫 About Me:
+<br>I'm a Frontend Mobile Developer specializing in mobile application development using the Flutter framework and UI/UX mobile design. I also develop full-stack web applications using Laravel and WordPress.
 
 ---
 
