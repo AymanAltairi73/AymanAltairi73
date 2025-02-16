@@ -9,9 +9,6 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Ayman Altairi</h1>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 # 💫 About Me:
 <br>I'm a **Frontend Mobile Developer** specializing in mobile application development using the **Flutter framework** and **UI/UX mobile design**. I also develop full-stack web applications using **Laravel** and **WordPress**.
 
