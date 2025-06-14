@@ -62,17 +62,6 @@
 
 ---
 
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="https://t.me/AymanAltairi73"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/aymanaltairi73"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ayman.altairi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:aymanaltairi73@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
 > 🧠 “Build UIs that impress, and logic that scales.”
 
 ## 💫 About Me
