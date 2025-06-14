@@ -8,9 +8,72 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programmer in a room full of devices and code" width="400">
 </div>
 
-<h1 align="center">Hi 👋, I'm Ayman Altairi</h1>
+---
+<h1 align="center">👋 Hi, I'm Ayman Altairi</h1>
+<p align="center">
+  🧑‍💻 <strong>Flutter Developer</strong> • 🔧 <strong>Full‑Stack Engineer</strong><br>
+  🚀 Passionate about Clean UI, Modern Mobile Apps, and Open Source Collaboration
+</p>
 
 ---
+
+## 🚀 About Me
+
+- 👨‍💻 Mobile App Developer specializing in **Flutter** & **Firebase**
+- 🎯 I build scalable, beautiful, and clean UIs with **Material 3**, **GetX**, and **Responsive Design**
+- 🔐 Experienced in authentication, animations, performance optimization, and real-time apps
+- 🌍 From Yemen | 💬 I speak Arabic and English
+- 🌱 Currently building: **Enterprise-grade apps & UI libraries**
+- 📫 Reach me at: `aymanaltairi73@gmail.com`
+
+---
+
+## 🔥 Tech Stack
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
+![GetX](https://img.shields.io/badge/-GetX-blueviolet?style=flat)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 🧩 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🎨 Flutter Animations UI](https://github.com/AymanAltairi73/Flutter-Animation) | A collection of professional Flutter UI animation effects | Flutter, GetX |
+| [🔐 3D Login/Signup Form](https://github.com/AymanAltairi73/Animated-3D-login-signup-form) | Creative 3D-style login form using HTML/CSS | HTML, CSS |
+| [📱 Portfolio Web](https://github.com/AymanAltairi73/Ayman-Altairi) | Personal responsive portfolio website | HTML, JS, CSS |
+
+> 🌟 More Flutter dashboards and real-time admin panels coming soon...
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AymanAltairi73&show_icons=true&theme=tokyonight&hide=prs" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAltairi73&layout=compact&theme=tokyonight" width="47%"/>
+</p>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://t.me/AymanAltairi73"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/aymanaltairi73"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ayman.altairi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:aymanaltairi73@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+> 🧠 “Build UIs that impress, and logic that scales.”
 
 ## 💫 About Me
 - 🔥 **Passionate Flutter Developer** specializing in mobile app development with modern and responsive UI/UX designs.  
