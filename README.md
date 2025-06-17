@@ -19,12 +19,12 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 Mobile App Developer specializing in **Flutter** & **Firebase**
+- 👨‍💻 Mobile App Developer specializing in **Flutter** & **Firebase** & **Supabase** 
 - 🎯 I build scalable, beautiful, and clean UIs with **Material 3**, **GetX**, and **Responsive Design**
 - 🔐 Experienced in authentication, animations, performance optimization, and real-time apps
 - 🌍 From Yemen | 💬 I speak Arabic and English
 - 🌱 Currently building: **Enterprise-grade apps & UI libraries**
-- 📫 Reach me at: `aymanaltairi73@gmail.com`
+- 📫 Reach me at: `aymanaltairi73@gmail.com` - `aymanaltairi8@gmail.com`
 
 ---
 
@@ -66,7 +66,6 @@
 
 ## 💫 About Me
 - 🔥 **Passionate Flutter Developer** specializing in mobile app development with modern and responsive UI/UX designs.  
-- 🌐 **Full-Stack Web Developer** skilled in **Laravel** and **WordPress**.  
 - 🎯 Always looking to expand my knowledge in **AI/ML** and innovative technologies.  
 - 💡 Fun Fact: Coding + Coffee = Productivity ☕💻  
 
